@@ -1,5 +1,4 @@
 ## Flanke: Connect multiple devices to form a bigger screen
-
 ### Introduction to Flanke
 
 Flanke is an app and a website that enables the connection of multiple devices to form a unified, expansive display. This technology allows users to enjoy their preferred multimedia content, such as movies and games, on a large, seamless screen created by synchronizing their devices.
@@ -25,3 +24,5 @@ Flanke is currently in the early stages of development. Our team is actively exp
 ### License
 
 Flanke is licensed under the [MIT License](license.md).
+
+![flanke](flanke.png)
