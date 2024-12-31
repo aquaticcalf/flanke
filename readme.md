@@ -46,7 +46,7 @@ flanke is licensed under the [`mit license`](license.md).
 
 ### support the vision
 
-<a href="https://ko-fi.com/flanke"><img height='35' src="https://aqclf.xyz/kofi-test-readme/support_me_on_kofi_beige.png"></a>
+<a href="https://ko-fi.com/aquaticcalf"><img height='35' src="https://aqclf.xyz/kofi-test-readme/support_me_on_kofi_beige.png"></a>
 
 ![hr](https://raw.githubusercontent.com/aquaticcalf/aquaticcalf/refs/heads/main/goodies/hr.png)
 
